@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dilial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
+- 👀 I’m interested in learning Python, java and discordjs
+- 🌱 I’m currently learning discordjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: dilial
 
