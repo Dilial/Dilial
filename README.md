@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Dilial
-- 👀 I’m interested in learning Python, java and javascript
-- 🌱 I’m currently learning discordjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord: dilial
+
 
 ![Dilial's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilial&theme=dark&show_icons=true)
 
